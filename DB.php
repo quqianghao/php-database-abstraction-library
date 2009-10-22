@@ -5,7 +5,7 @@
  *
  * @copyright (c) 2009 WeJello Project More info http://www.wejello.org
  * @license http://opensource.org/licenses/gpl-2.0.php The GNU General Public License
- * @author xuanyan <xuanyan@wejello.org>
+ * @author quqiang <xuanyan@wejello.org>
  * @version $Id: db.php 19 2009-06-24 14:59:53Z xuanyan $
  */
 
